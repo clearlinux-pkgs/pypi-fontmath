@@ -13,7 +13,7 @@ License  : MIT
 Requires: pypi-fontmath-python = %{version}-%{release}
 Requires: pypi-fontmath-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(fonttools)
 BuildRequires : pypi(setuptools)
@@ -21,7 +21,7 @@ BuildRequires : pypi(setuptools_scm)
 BuildRequires : pypi(wheel)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 [![Build Status](https://github.com/robotools/fontMath/workflows/Tests/badge.svg)](https://github.com/robotools/fontMath/actions?query=workflow%3ATests)
