@@ -4,7 +4,7 @@
 #
 Name     : pypi-fontmath
 Version  : 0.9.3
-Release  : 18
+Release  : 19
 URL      : https://files.pythonhosted.org/packages/e8/47/1f3a198381a786cd6007a3617a9dd73262e85c0886fc7b5a574d0d476915/fontMath-0.9.3.zip
 Source0  : https://files.pythonhosted.org/packages/e8/47/1f3a198381a786cd6007a3617a9dd73262e85c0886fc7b5a574d0d476915/fontMath-0.9.3.zip
 Summary  : A set of objects for performing math operations on font data.
