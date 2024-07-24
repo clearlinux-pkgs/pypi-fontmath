@@ -1,5 +1,5 @@
 PKG_NAME := pypi-fontmath
-URL = https://files.pythonhosted.org/packages/e8/47/1f3a198381a786cd6007a3617a9dd73262e85c0886fc7b5a574d0d476915/fontMath-0.9.3.zip
+URL = https://files.pythonhosted.org/packages/0d/ee/c23438eb01ee4b43beb79c148088589661a3eb1c6549ec82baebea059c99/fontmath-0.9.4.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
